@@ -1,7 +1,7 @@
 {
-  "name": "mysql-live-select",
+  "name": "sushitommy-mysql-live-select",
   "version": "0.0.22",
-  "description": "Live updating MySQL SELECT statements",
+  "description": "Extension on Live updating MySQL SELECT statements",
   "main": "lib/LiveMysql.js",
   "repository": "https://github.com/numtel/mysql-live-select",
   "scripts": {
